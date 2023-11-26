@@ -320,11 +320,7 @@ a {
   z-index: 1;
   display: grid;
 }
-@media (min-width: 992px) {
-  .showcase-section .container .showcase-info .showcase-buttons {
-    display: inline;
-  }
-}
+
 .showcase-section .container .showcase-info .showcase-buttons .theme-btn {
   margin: 0px 0px 20px 0px;
 }
@@ -338,22 +334,14 @@ a {
   margin-right: -50px;
   display: none;
 }
-@media (min-width: 1200px) {
-  .showcase-section .container .showcase-image {
-    display: inline;
-  }
-}
+
 .showcase-section .background-lines {
   position: absolute;
   bottom: 0;
   z-index: -1;
   display: none;
 }
-@media (min-width: 992px) {
-  .showcase-section .background-lines {
-    display: inline;
-  }
-}
+
 
 .logos .container {
   display: none;
@@ -362,11 +350,7 @@ a {
   margin-top: 70px;
   margin-bottom: 70px;
 }
-@media (min-width: 1200px) {
-  .logos .container {
-    display: flex;
-  }
-}
+
 
 .features .container {
   display: none;
@@ -375,26 +359,12 @@ a {
   border: 1px solid #dad9d3;
   margin-top: 50px;
 }
-@media (min-width: 992px) {
-  .features .container {
-    display: flex;
-  }
-}
-@media (min-width: 1200px) {
-  .features .container {
-    display: flex;
-    justify-content: space-between;
-  }
-}
+
 .features .container .features-info {
   width: 70%;
   padding: 50px 100px 100px 60px;
 }
-@media (min-width: 1200px) {
-  .features .container .features-info {
-    padding: 50px 100px 200px 60px;
-  }
-}
+
 .features .container .features-info .features-text {
   font-size: 18px;
   font-weight: 500;
@@ -418,11 +388,7 @@ a {
   gap: 30px;
   padding-right: 50px;
 }
-@media (min-width: 1200px) {
-  .features .container .features-categories .umb-block-list {
-    display: grid;
-  }
-}
+
 .features .container .features-categories .umb-block-list .features-cube div {
   font-size: 25px;
   margin-bottom: 15px;
@@ -451,11 +417,7 @@ a {
   position: relative;
   display: none;
 }
-@media (min-width: 1200px) {
-  .about-company .container .about-image {
-    display: inline;
-  }
-}
+
 .about-company .container .about-image .image-person {
   width: 480px;
   height: 615px;
@@ -490,12 +452,7 @@ a {
   margin-left: 0px;
   margin-right: 0px;
 }
-@media (min-width: 992px) {
-  .about-company .container .about-info {
-    margin-left: 190px;
-    margin-right: 100px;
-  }
-}
+
 .about-company .container .about-info .about-company-text {
   font-size: 18px;
   font-weight: 500;
@@ -508,11 +465,7 @@ a {
   margin-bottom: 30px;
   margin-top: 30px;
 }
-@media (min-width: 992px) {
-  .about-company .container .about-info .about-title {
-    font-size: 55px;
-  }
-}
+
 .about-company .container .about-info p {
   font-size: 16px;
   font-weight: 400;
@@ -521,21 +474,13 @@ a {
 .about-company .container .about-info .text {
   margin-top: 30px;
 }
-@media (min-width: 992px) {
-  .about-company .container .about-info .text {
-    margin-top: 50px;
-  }
-}
+
 .about-company .container .about-info .about-buttons {
   display: flex;
   align-items: center;
   margin-top: 50px;
 }
-@media (min-width: 992px) {
-  .about-company .container .about-info .about-buttons {
-    margin-top: 110px;
-  }
-}
+
 .about-company .container .about-info .about-buttons .play-btn {
   border: 1px solid #191919;
   background-color: transparent;
@@ -550,11 +495,7 @@ a {
   color: #FFFFFF;
   transition: all 0.25s ease-in-out;
 }
-@media (min-width: 992px) {
-  .about-company .container .about-info .about-buttons .play-btn {
-    display: inline;
-  }
-}
+
 .about-company .container .about-info .about-buttons .play-btn i {
   padding: 15px;
   font-size: 0.8em;
@@ -564,11 +505,7 @@ a {
   font-weight: 600;
   display: none;
 }
-@media (min-width: 992px) {
-  .about-company .container .about-info .about-buttons .play-text {
-    display: inline;
-  }
-}
+
 
 .our-services {
   background-color: #F0EFE9;
@@ -581,19 +518,11 @@ a {
   right: 0;
   display: none;
 }
-@media (min-width: 1200px) {
-  .our-services img {
-    display: inline;
-  }
-}
+
 .our-services .container {
   text-align: center;
 }
-@media (min-width: 1200px) {
-  .our-services .container {
-    text-align: start;
-  }
-}
+
 .our-services .container .orange-text {
   padding-top: 120px;
   padding-bottom: 20px;
@@ -604,12 +533,7 @@ a {
   font-weight: 700;
   padding-bottom: 20px;
 }
-@media (min-width: 1200px) {
-  .our-services .container .our-services-title {
-    padding-bottom: 0;
-    width: 500px;
-  }
-}
+
 .our-services .container .content-boxes .umb-block-list {
   display: none;
   align-items: center;
@@ -618,11 +542,7 @@ a {
   margin-top: 40px;
   margin-bottom: 40px;
 }
-@media (min-width: 1200px) {
-  .our-services .container .content-boxes .umb-block-list {
-    display: flex;
-  }
-}
+
 .our-services .container .content-boxes .umb-block-list .box {
   padding: 50px 30px 45px 30px;
   background-color: #FFFFFF;
